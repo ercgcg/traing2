@@ -1,2 +1,2 @@
-# traing2
+# training2
 edge training
